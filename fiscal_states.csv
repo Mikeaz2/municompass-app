@@ -1,0 +1,7 @@
+state,avg_budget_5y_billion,surplus_flag,budget_score
+FL,3.2,True,86
+TX,4.1,True,84
+NY,2.0,True,80
+CA,-1.1,False,72
+IL,-2.5,False,60
+NJ,-0.8,False,66
